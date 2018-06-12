@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 10705062d22acd4438d2b744ee0f986e
+timeCreated: 1495151800
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - drone_prefab: {fileID: 114488, guid: cfd1a53bd1d19214d9e96ba537400fba, type: 2}
+  - mini_prefab: {fileID: 138760, guid: e8160fd69e8388b4abb90f66f5161882, type: 2}
+  - crossCannon_prefab: {fileID: 146408, guid: 3a12f422076dd8148a9c0c506ab9507f, type: 2}
+  - hWing_prefab: {instanceID: 0}
+  - crossBeam_prefab: {instanceID: 0}
+  - crossBomber_prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
